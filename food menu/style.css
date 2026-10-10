@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    
+}
+h3{
+    text-align: center;
+    font: 1em sans-serif;
+   
+}
+h2{
+    text-align: center;
+  
+}
+h5{
+    font: 2em sans-serif;
+    margin-bottom: 5%;
+     
+}
+ul{
+    margin-top: 3%;
+}
+footer{
+    text-align: center;
+    font: 2em sans-serif;
+}
+.brownies{
+    float: right;
+    width: 150px;
+    
+}
